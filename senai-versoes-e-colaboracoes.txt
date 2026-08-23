@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testando a branch exemplo-branch.
+=======
+Trabalhando na primeira branch
+>>>>>>> tarefa/minha-primeira-branch
